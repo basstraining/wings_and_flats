@@ -1,0 +1,829 @@
+City,Region
+Boston,Massachusetts
+Chicago,Illinois
+Boston,Massachusetts
+Philadelphia,Pennsylvania
+Ontario,California
+Harlingen,Texas
+Long Beach,California
+Youngstown,Ohio
+Austin,Texas
+Miami,Florida
+Memphis,Tennessee
+San Francisco,California
+Near Goshen,Indiana
+Atlantic Ocean,
+Boise,Idaho
+Flushing,New York
+Morton,Wyoming
+Flushing,New York
+Denver,Colorado
+Honolulu,Hawaii
+Washington,Dc
+Houston,Texas
+Austin,Texas
+Denver,Colorado
+Miami,Florida
+Denver,Colorado
+Pellston,Michigan
+Memphis,Tennessee
+Washington,Dc
+Thermal,California
+Los Angeles,California
+Los Angeles,California
+Norfolk,Virginia
+Chicago,Illinois
+Los Angeles,California
+Calverton,New York
+Durango,Mexico
+San Jose,Costa Rica
+Nr Tokyo,Japan
+Panama City,Panama
+Midway Islands,Po
+Boston,Massachusetts
+Flushing,New York
+Jamaica,New York
+San Juan,
+San Juan,
+Newark,New Jersey
+Newark,New Jersey
+Buga,Colombia
+Pensacola,Florida
+Sao Paulo,Brazil
+Buenos Aires,Argentina
+Comorso Islands,Ethiopia
+Panama City,Panama
+Denver,Colorado
+London,United Kingdom
+London,United Kingdom
+Asuncion,Paraguay
+Memphis,Tennessee
+Lima,Peru
+Nimitz Hill,Gu
+Paris,France
+London,United Kingdom
+Mexico City,Mexico
+Manchester,United Kingdom
+Antalya,France
+Nan,
+Concepcion,Bolivia
+Curitba,Brazil
+London,United Kingdom
+Calgary,Canada
+Zhanjiang,China
+Tegucigalpa,Honduras
+Shanghai,China
+Hong Kong,China
+Copenhagen,Denmark
+London,United Kingdom
+London,United Kingdom
+Guatemala City,Guatemala
+Amsterdam,Netherlands
+Abidjan,Cote D'Ivoire
+Porto Alegre,Brazil
+Burbank,California
+Samal Island,Philippines
+Nashville,Tennessee
+Paris,France
+Montreal,Canada
+Paris,France
+Copenhagen,Denmark
+Boston,Massachusetts
+Buenos Aires,Argentina
+Boston,Massachusetts
+Boston,Massachusetts
+Buenos Aires,Argentina
+New York City,New York
+Indianapolis,Indiana
+Kansas City,Missouri
+Vancouver,"Bc, Canada"
+Wadsworth,Ohio
+Jamaica,New York
+Boston,Massachusetts
+Miami,Florida
+Newark,New Jersey
+Buenos Aires,Argentina
+Denver,Colorado
+Minneapolis,Minnesota
+Minneapolis,Minnesota
+Union Star,Missouri
+London,United Kingdom
+Raleigh-durham,North Carolina
+Denver,Colorado
+Denver,Colorado
+Newark,New Jersey
+Newark,New Jersey
+Agana,Gu
+Los Angeles,California
+Calgary,Canada
+Heathrow Iap,United Kingdom
+Denver,Colorado
+Shanghai,China
+New York,New York
+New York,New York
+Chicago,Illinois
+Chicago,Illinois
+San Diego,California
+Miami,Florida
+San Diego,California
+Jfk,New York
+London,United Kingdom
+Traverse City,Michigan
+La Plata,Maryland
+Atlanta,Georgia
+Syracuse,New York
+Phoenix,Arizona
+Chicago,Illinois
+Chicago,Illinois
+Atlanta,Georgia
+St. Louis,Missouri
+Chicago,Illinois
+Fargo,North Dakota
+Greenville,Texas
+Chicago,Illinois
+Jamaica,New York
+Honolulu,Hawaii
+Ontario,California
+Bangkok,Thailand
+Detroit,Michigan
+Penicton,Canada
+San Francisco,California
+London,United Kingdom
+Newark,New Jersey
+West Palm Beach,Florida
+Cusco,Peru
+Kansai,Japan
+Hilo,Hawaii
+Covington,Kentucky
+Washington,Dc
+Austin,Texas
+Valdosta,Georgia
+Las Vegas,Nevada
+Mexico City,Mexico
+Jackson,Wyoming
+Dallas,Texas
+Cusco,Peru
+Richmond,Virginia
+Houston,Texas
+Miami,Florida
+Goma,Central Africa
+Minneapolis,Minnesota
+"Pacific Ocean,",
+Tegucgalpa,Honduras
+Khartoum,South Sudan
+Charlotte,North Carolina
+Seattle,Washington
+New York,New York
+St. Louis,Missouri
+Port Harcourt,Nigeria
+Denver,Colorado
+Manila,Philippines
+Las Vegas,Nevada
+San Francisco,California
+Madrid,Spain
+Bishkek,Kyrgyzstan
+"Atlantic Ocean,",
+Perm,Russia
+Allentown,Pennsylvania
+Quito,Spain
+Chicago,Illinois
+Chicago,Illinois
+Bangkok,Thailand
+Learmonth Aerodome,Australia
+Maiquetia,Venezuela
+Belgrade,"Serbia, Suriname"
+Phoenix,Arizona
+Salt Lake City,Utah
+Bozeman,Montana
+Madison,Wisconsin
+Greer,South Carolina
+Sitka,Alaska
+Denver,Colorado
+Seattle,Washington
+Los Angeles Intl Airport,California
+Kansas City,Missouri
+Seattle,Washington
+New York,New York
+Atlanta,Georgia
+Ho Chi Minh City,Vietnam
+Weehawken,New Jersey
+Clarence Center,New York
+Tokyo,Japan
+Batam,Indonesia
+Amsterdam,Netherlands (The)
+",",
+Niigata,Japan
+Trelew,Argentina
+Atlanta,Georgia
+Mcallen,Texas
+New York,New York
+Denver,Colorado
+Baltimore,Maryland
+Houston,Texas
+Cuba,Cuba
+San Juan,Pr
+Los Angeles,California
+Los Cayes,Haiti
+Atlantic,France
+Chicago,Illinois
+Cleveland,Ohio
+Taipei,"Taiwan, Taiwan (Province Of China)"
+Denver,Colorado
+North Bay,Canada
+Kagoshima,Japan
+Cleveland,Ohio
+Moroni,China
+Fort Myers,Florida
+Indianapolis,Indiana
+Charleston,West Virginia
+Norfolk,Virginia
+Bavaro,Las Americas
+Tokyo,Japan
+Inverness,Florida
+Los Angeles,California
+Newark,New Jersey
+Birgi,"Trapani, Sicily, Italy, Italy"
+Unknown,Argentina
+Atlanta Hartsfield Intl. Apt. (katl),Georgia
+Manchester,United Kingdom
+Minneapolis,Minnesota
+Pleasant Grove,North Carolina
+Phoenix,Arizona
+Kansas City,Missouri
+New Market,West Virginia
+Charlotte,North Carolina
+Dallas,Texas
+Hahn,Germany
+Newark,New Jersey
+"St. Croix,",
+Padang,Indonesia
+Beirut,Lebanon
+Santa Clarita,California
+Surabaya,Indonesia
+Anchorage,Alaska
+Brussels,Belgium
+Titusville,Florida
+Chicago,Illinois
+San Francisco,California
+Newark,New Jersey
+Paris,France
+Los Angeles,California
+Keflavik,Iceland
+Chicago,Illinois
+Kansas City,Missouri
+Houston,Texas
+Fort Dodge,Iowa
+Mitu,Colombia
+Sydney,Australia
+Tripoli,Libya
+Chantilly,Virginia
+Anchorage,Alaska
+Manglaore,India
+Southern Tip Of Greenland,Denmark
+Charlotte,North Carolina
+Amsterdam Schiphol Iap,Netherlands (The)
+Girona,Spain
+Amsterdam,"Netherlands, Netherlands (The)"
+Pioneer,Louisiana
+"Pacific Ocean,",
+Atlanta,Georgia
+Taipei,Taiwan (Province Of China)
+Islamabad,Pakistan
+Chicago,Illinois
+Summit,Mississippi
+Salt Lake City,Utah
+San Andres Island,Colombia
+Dulles,Virginia
+Yichun,China
+Sacramento,California
+Los Angeles,California
+Minneapolis,Minnesota
+Palermo (sicily),Italy
+Amsterdam,Netherlands (The)
+New York,New York
+Phoenix,Arizona
+Miami,Florida
+Fort Lauderdale,Florida
+Pittsburgh,Pennsylvania
+Los Angeles,California
+Minneapolis,Minnesota
+Madison,Wisconsin
+Salt Lake City,Utah
+Montreal,Canada
+Pago Pago,Antarctica
+Lisbon,"Portugal, Portugal"
+Brasilia,Brazil
+Covington,Kentucky
+Rio De Janiero,Brazil
+Philadelphia,Pennsylvania
+San Francisco,California
+Jackson Hole,Wyoming
+Los Angeles,California
+Atlantic Ocean,Canada
+Ni'ihau,Hawaii
+Pekanbaru,Indonesia
+Pekanbaru,Indonesia
+Madinah,Saudi Arabia
+North Fayston,Vermont
+Southlake,Texas
+Casablanca,"Morocco, Macao"
+New York,New York
+Naches,Washington
+Atlanta,Georgia
+Pittsburgh,Pennsylvania
+Akron,Ohio
+Kansas City,Missouri
+Orlando,Florida
+Yuma,Arizona
+Phoenix,Arizona
+Dubuque,Iowa
+New Orleans,Louisiana
+Bucharest,Romania
+Hamburg,Germany
+Paris,France
+"Pacific Ocean,",
+Jamaica,New York
+Cheltenham,Maryland
+New York,New York
+Chicago,Illinois
+Chillicothe,Missouri
+Atlanta,Georgia
+Tao-yuan,Taiwan (Province Of China)
+Chicago,Illinois
+Dublin,Ireland
+Boone,North Carolina
+Los Angeles,California
+Chicago,Illinois
+Florence,South Carolina
+Milwaukee,Wisconsin
+San Fransico,California
+Atlanta,Georgia
+Miami,Florida
+Kisangani,Central Africa
+Boston,Massachusetts
+Pemir,Latvia
+Cairo,Egypt
+Tangshan,China
+Georgetown,Guyana
+Chicago,Illinois
+Moline,Illinois
+Baton Rouge,Louisiana
+Ottawa,Canada
+Cape Coral,Florida
+Montauk,Ao
+Chicago,Illinois
+Quito,Spain
+Denver,Colorado
+Puerto Ordaz,Venezuela
+Miami,Florida
+Atlanta,Georgia
+Atlanta,Georgia
+New York,New York
+Detroit,Michigan
+Warsaw,Poland
+Munich,Germany
+Minneapolis,Minnesota
+Toronto,Canada
+Modesto,California
+Chicago,Illinois
+Oakland,California
+Atlanta,Georgia
+Yogyakarta,Indonesia
+Denver,Colorado
+Rio De Janeiro,Brazil
+Farmersville,Texas
+San Francisco,California
+Jamaica,New York
+Detroit,Michigan
+Pawnee,Nebraska
+Millville,New Jersey
+Angers,France
+Laverne,Oklahoma
+Buena Vista,Colorado
+Islamabad,Pakistan
+Karachi,Pakistan
+Fort Lauderdale,Florida
+Cam Ranh,"Vietnam, Vietnam"
+Pontianak,Indonesia
+Philadelphia,Pennsylvania
+Minneapolis,Minnesota
+Winnie,Texas
+Las Vegas,Nevada
+Frankfurt,Germany
+Tokyo,Japan
+La Serena,Chile
+Peoria,Illinois
+El Paso,Texas
+Linz,Austria
+Denver,Colorado
+Rome,Italy
+Hilton Head,South Carolina
+Dulles,Virginia
+Santo Domingo,Venezuela
+London,United Kingdom
+Sao Paulo,Brazil
+Sophia,North Carolina
+Milwaukee,Wisconsin
+Antalya,Turkey
+Las Vegas,Nevada
+Pontianak,Indonesia
+Atlanta,Georgia
+Johannesburg,South Africa
+New York,New York
+Phuket,Thailand
+Chicago,Illinois
+Takamatsu,Japan
+Miami,Florida
+Seoul,South Korea
+Bowman,Georgia
+Pacific Ocean,Un
+Cincinnati,Ohio
+Keflavik,Iceland
+Danville,California
+Atlanta,Georgia
+Las Vegas,Nevada
+Newark,New Jersey
+Osaka,"Japan, Japan"
+Dallas,Texas
+Phoenix,Arizona
+Moscow,Russia
+Shanghai,China
+Nashville,Tennessee
+San Francisco,California
+Atlanta,Georgia
+Flushing,New York
+Batopilas,Mexico
+Reno,Nevada
+Greenville,Texas
+Houston,Texas
+Providenciales,Tokelau
+Philadelphia,Pennsylvania
+Madrid,Spain
+St. Louis,Missouri
+Las Vegas,Nevada
+Nashville,Tennessee
+Atlanta,Georgia
+Branson,Missouri
+Atlanta,Georgia
+Memphis,Tennessee
+Kaycee,Wyoming
+San Diego,California
+Kuala Lampur,Malaysia
+Philadelphia,Pennsylvania
+Seattle,Po
+Boston,Massachusetts
+Traverse City,Michigan
+Dallas,Texas
+Kabul,Afghanistan
+Los Angeles,California
+Hrabove,Ukraine
+San Diego,California
+San Antonio,Texas
+Reykjavik,Ao
+Hemphill,Texas
+Columbus,Ohio
+Lahore,"Pakistan, Pakistan"
+Miami,Florida
+Long Beach,California
+Atlanta,Georgia
+Buenos Aires,Argentina
+Jamaica,New York
+Minneapolis,Minnesota
+Valdosta,Georgia
+San Jose,California
+Baltimore,Maryland
+Ishikawa,Japan
+Houston,Texas
+Honolulu,Po
+Chicago,Illinois
+New York,New York
+Chicago,Illinois
+Springfield,Missouri
+Phoenix,Arizona
+New Orleans,Louisiana
+Atlanta,Georgia
+Windsor Locks,Connecticut
+St Petersburg,Florida
+Mccook,Nebraska
+Boston,Massachusetts
+Denver,Colorado
+South Lake Tahoe,California
+Max,Nebraska
+Charlotte,North Carolina
+Oakland,California
+Tambacounda,Singapore
+Las Vegas,Nevada
+Miami,Florida
+Nassau,Bahamas
+Russian Airspace,Japan
+Pound Ridge,New York
+Dallas,Texas
+Plevna,Kansas
+Johannesburg,South Africa
+Fort Lauderdale,Florida
+Beaumont,Texas
+St Louis,Missouri
+Nashville,Tennessee
+Seattle,Washington
+Charlotte,North Carolina
+San Diego,California
+Raleigh,North Carolina
+Newark,New Jersey
+Titusville,Florida
+Minneapolis,Minnesota
+Detroit,Michigan
+Chitose,Japan
+A Mitad De La Pista Del Aeropuerto,Mexico
+Port Arthur,Texas
+Bilbao,Spain
+Jakarta,Indonesia
+Chiang Mai,Thailand
+San Diego,California
+Prishtina,Suriname
+Ulaanbaatar,Madagascar
+Philadelphia,Pennsylvania
+Boston,Massachusetts
+Tokyo,Japan
+Las Vegas,Nevada
+Jamaica,New York
+New Orleans,Louisiana
+Jamaica,New York
+Rapid City,South Dakota
+Cleveland,Ohio
+Grand Cayman Island (gcm),Cayman Islands
+Baltimore,Maryland
+New York,New York
+Wood,South Dakota
+Waco,Texas
+Pensacola,Florida
+Denver,Colorado
+Surabaya,Indonesia
+Seattle,Washington
+New York,New York
+Chicago,Illinois
+Hopewell,Virginia
+Kansas,Illinois
+Nagpur,India
+San Antonio,Texas
+Lajes Terceira Island,Portugal
+Denver,Colorado
+Dabolim,"Goa, India"
+Bournemouth,United Kingdom
+Baltimore,Maryland
+Jeddah,Saudi Arabia
+Phoenix,Arizona
+Dulles,Virginia
+Charlotte,North Carolina
+Azraq,Jordan
+Los Angeles,California
+Ypsilanti,Michigan
+Dallas-fort Worth (dfw),Texas
+Dayton,Ohio
+Ardabil,Iran (Islamic Republic Of)
+Amsterdam,Netherlands (The)
+Boston,Massachusetts
+Raleigh,North Carolina
+South Toledo Bend,Texas
+Multan,Pakistan
+Washington,Dc
+Tokyo,Japan
+Chicago,Illinois
+Jakarta,Indonesia
+Atlanta,Georgia
+Chicago,Illinois
+Fukushima,Japan
+Denver,Colorado
+Cali,Colombia
+Minneapolis,Minnesota
+Singapore,Senegal
+Tijuana,Mexico
+Bacau,Romania
+London,United Kingdom
+Queens,New York
+Mckellar,Tennessee
+Lima,Peru
+Medellin,Colombia
+El Paso,Texas
+Chochin,India
+Las Vegas,Nevada
+Los Angeles,California
+Christ Church,Barbados
+Aqaba,Jordan
+Mumbai,India
+Hong Kong,Hong Kong
+Osaka,Japan
+Sioux City,Iowa
+Dublin,Ireland
+Luga,Malta
+Goose Bay,Canada
+Arlington,Virginia
+Chicago,Illinois
+Guayaquil,Spain
+Foz Do Iguacu County,Brazil
+Atlanta,Georgia
+Bogota,Colombia
+Miami,Florida
+Fort Lauderdale,Florida
+Detroit,Michigan
+Cusco,Peru
+Saint Louis,Missouri
+Pullman,Washington
+Alice Springs,Australia
+Lima,Peru
+Mar Del Plata,Argentina
+Honolulu,Hawaii
+Lagos,Nigeria
+Ballina/byron Gateway Aerodome,Australia
+Minneapolis,Minnesota
+Rio De Janeiro,Brazil
+Mexico City,Mexico
+Philadelphia,Pennsylvania
+Atlanta,Georgia
+Cuzco,Peru
+Unknown,Mexico
+Alexandria,Louisiana
+Bangkok,Thailand
+Queens,New York
+Guayaquil,Spain
+Baltimore,Maryland
+Havana,Cuba
+Decatur,Texas
+Crete,Greece
+Harbin,China
+Otopeni,Romania
+Zhuliany,Ukraine
+Cut Bank,Montana
+Koln,Germany
+Springfield,Missouri
+Gander,Canada
+Chichen Itza,Mexico
+Confins County,Brazil
+Iguazu Province Of Misiones,Argentina
+Charlotte,North Carolina
+West Palm Beach,Florida
+Portsmouth,New Hampshire
+Durango,Mexico
+Philadelphia,Pennsylvania
+Los Angeles,California
+Callao,Peru
+Philadelphia,Pennsylvania
+Sochi,Russia
+New York,New York
+Mumbai,India
+Newark,New Jersey
+Tijuana,Mexico
+Dallas,Texas
+Chattogram,Bangladesh
+Chuuk,Micronesia (Federated States Of)
+Zagreb,Croatia
+Bangkok,Thailand
+San Jose,California
+Albany,New York
+Hong Kong,China
+Jakarta,Indonesia
+Buenos Aires,Argentina
+La Paz,Saint Barthelemy
+Las Vegas,Nevada
+Chicago,Illinois
+Sunns Intersection,"Osaka, Japan"
+Burbank,California
+Lagos,Nigeria
+Pacific Ocean,Po
+Bluefields,Niue
+Nurenburg,Germany
+Reno,Nevada
+Franklin,Tennessee
+Orlando,Florida
+Honolulu,Hawaii
+Addis Ababa,Ethiopia
+Charlotte,North Carolina
+Atlanta,Georgia
+New York,New York
+Fort Meyers,Florida
+Johannesburg,South Africa
+Narita,Japan
+Jacksonville,Florida
+Derby,Australia
+Seoul,South Korea
+Waycross,Georgia
+Unknown,Japan
+Lagos,Nigeria
+Bandung,Indonesia
+London,United Kingdom
+San Jose,Philippines
+San Juan,Pr
+Perrigny-sur-armancon,France
+El Alto,Saint Barthelemy
+Orlando,Florida
+Charlottesville,Virginia
+Rome,Italy
+Shannon,Ireland
+Beijing,China
+Ponta Delgada,Portugal
+Chicago,Illinois
+Beijing,China
+Cape Town,South Africa
+Fort Myers,Florida
+Nassau,Bahamas
+Chicago Ohare,Illinois
+Cote-d'or,France
+Bamako,Mali
+Unalaska,Alaska
+Chicago,Illinois
+Bogota,Colombia
+Philadelphia,Pennsylvania
+Disputanta,Virginia
+Chicago,Illinois
+Denver,Colorado
+Halifax,Canada
+Tehran,Iran (Islamic Republic Of)
+New York,New York
+New Orleans,Louisiana
+Fukuoka,Japan
+Panama City,Panama
+Istanbul,Turkey
+Waynesville,North Carolina
+San Jose,Philippines
+Komi,Russia
+Bordeaux,France
+Incheon,Kenya
+Rosario,Argentina
+Apodaca,Mexico
+Shannon,Ireland
+Las Vegas,Nevada
+Victorville,California
+Karachi,Pakistan
+Ambon,Indonesia
+Durban,South Africa
+Bucharest,Romania
+Tokyo,Japan
+Anchorage,Alaska
+Phoenix,Arizona
+Houston,Texas
+San Jose,Of
+Mexico City,Mexico
+Jakarta,Indonesia
+Dubai,Turks And Caicos
+Fort Lauderdale,Florida
+Broomfield,Colorado
+Vijayawada,Of
+Dallas,Texas
+Los Angeles,California
+Lima,Peru
+Rotterdam,Netherlands (The)
+St Petersburg-clearwater,Florida
+Cayo Coco,Cuba
+Chicago,Illinois
+Dallas,Texas
+Yesan,South Korea
+Kolkata,India
+San Diego,California
+New Orleans,Louisiana
+Miami,Florida
+Detroit,Michigan
+Nice,Of
+Santa Cruz De La Sierra,Saint Barthelemy
+Chicago,Illinois
+Seatac,Washington
+Asheville,North Carolina
+Honolulu,Hawaii
+Newark,New Jersey
+Atlantic City,New Jersey
+Chicago,Illinois
+Lexington,Virginia
+Miami,Florida
+Vogo,India
+Baradero,Argentina
+Bogata,Colombia
+Warsaw,
+Barcelona,
+Okayama City,
+Hayden,Colorado
+Las Vegas,Nevada
+Lanseria,Of
+Karachi,Of
+Lanseria,Of
+Manchester,Of
+Wuzhou,
+Shannon,"Irelan,"
+Tambon Nong Prue,Of
+Naples,
+Kathmandu,
+Tacoma,Washington
+Springfield,Missouri
+Lahore,
+Karachi,
+Miami,Florida
+Pittsburgh,Pennsylvania
+Dubrovnik,
+Cairo,
+Santa Ana,California
+Naha,
+Bogota,Of
+Chiang Rai,
+Pharisburg,Ohio
+Detroit,Michigan
+Los Angeles,California
+Manila,
+Komatsu,"Ishikawa, Of"
+Miami,Florida
