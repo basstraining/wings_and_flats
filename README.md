@@ -4,8 +4,11 @@
 
 ## Overview
 Our analysis aims to disinter meaningful insights from the dataset accessed from Kaggle as it relates to aviation accidents. This data contains the necessary information to develop our supporting arguments to form three concrete business recommendations: assessing the overall safety of planes, charting less treacherous skies, and focusing on commercial flights. With the cumulative knowledge we have fostered as budding data scientists, we aim to take you through cleaning, analyzing, and visualizing this aviation accident data. We hope the insight we provide can provide the basis for actionable results.
+
 [Link to data source](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses)
+
 [Interactive Dashboard](https://public.tableau.com/app/profile/yiyi.luo/viz/wingsandflats_6/Dashboard6?publish=yes)
+
 More visuals in [final.ipynb](https://github.com/basstraining/wings_and_flats/blob/main/Final.ipynb) and [Images](https://github.com/basstraining/wings_and_flats/tree/main/Images)
 
 ## Business Understanding
@@ -39,7 +42,11 @@ Our analysis aims to find the safest make/model using the National Transportatio
 
 ## Repo Structure
 |---data
+
 |---images
+
 |---notebooks
-|--Aviation_Analytics__Risk_Management_2.pdf
+
+|---[presentation.pdf](https://github.com/basstraining/wings_and_flats/blob/main/presentation.pdf)
+
 |---[final.ipynb](https://github.com/basstraining/wings_and_flats/blob/main/Final.ipynb)
