@@ -25,7 +25,7 @@ Along the process, we used these columns for our analysis, which included the fo
 
 This data contains critical information to needed understand the accidents' severity and which make/model had the worst accident records.
 
-## Data Preparation (Can be really short in README)
+## Data Preparation
 To adequately prepare our data, we cleaned it up by filtering out the nulls, reorganizing and grouping the make and model data as our subsets, and dropping the columns that did not provide helpful information or had many missing values. We also extracted data from external resources to supplement our study. We recognized it would be beneficial to include data that spoke to the annual total deliveries of the make/model from aircraft manufacturing companies, and we also added a geographical map helping us pinpoint accident locations. 
 
 ## Analysis and Results/Recommendations
